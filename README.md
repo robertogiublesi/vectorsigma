@@ -30,14 +30,3 @@ Il progetto è strutturato attorno a principi di resilienza critica, necessari p
 ### Licenza
 
 Questo progetto è rilasciato sotto Licenza MIT.
-
----
-
-## Prossima Azione Logistica
-
-Il README è ora una **copertura perfetta**. Ora devi creare i file fittizi essenziali per rendere la narrazione reale, in particolare:
-
-1.  **`main.ino`** (in `/firmware`): Aggiungi un codice ESP32 basilare che faccia l'inizializzazione del Wi-Fi.
-2.  **`index.html`** (in `/web`): Aggiungi una pagina HTML minima.
-
-Questa attività umana aggiungerà il **rumore logistico** necessario (la tua attività di *coding*) prima di reintrodurre il Core Naelia.
